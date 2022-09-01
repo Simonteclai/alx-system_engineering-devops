@@ -1,0 +1,1 @@
+the scripts about permissions
