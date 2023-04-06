@@ -13,11 +13,11 @@ frontend http-in
 
 backend servers
 	balance roundrobin
-	server 105716-web-01 54.175.32.23:80 check
+	server 105716-web-01 18.209.179.54:80 check
 	server 105716-web-02 18.206.198.73:80 check
 EOF
 #hostname configuration update
-echo "54.175.32.23"> /etc/hostname
+echo "18.209.179.54"> /etc/hostname
 echo "18.206.198.73">> /etc/hostname
 
 #To enable HAproxy init script
