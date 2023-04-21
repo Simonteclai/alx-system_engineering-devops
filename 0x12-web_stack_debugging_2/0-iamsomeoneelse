@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#script to returne the arguments as when you run whoami
+
+sudo -u "$1" whoami
