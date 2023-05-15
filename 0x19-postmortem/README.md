@@ -11,9 +11,9 @@ Root Cause: The root cause of the outage was an introduction to the changed appl
 - 9:45 PM EST: The issue was detected when our monitoring systems alerted our technical teams of a service failure.
 - 9:50 PM EST: Our technical teams began investigating the issue and determined that the service failure was due to a configuration change that was introduced during a software update.
 - 10:00 PM EST: The team attempted to roll back the configuration change.
-- 10:45 AM EST: The team began investigating other potential root causes and conducted a series of tests to identify the issue.
-- 11:15 AM EST: The team escalated the issue to the development team to assist in identifying and resolving the root cause.
-- 12:15 PM EST: The issue was identified and resolved resulting in the normal operations desired.
+- 10:45 PM EST: The team began investigating other potential root causes and conducted a series of tests to identify the issue.
+- 11:15 PM EST: The team escalated the issue to the development team to assist in identifying and resolving the root cause.
+- 12:15 AM EST: The issue was identified and resolved resulting in the normal operations desired.
 
 ## Root Cause and Resolution
 
