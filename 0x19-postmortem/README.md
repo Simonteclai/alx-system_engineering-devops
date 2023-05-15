@@ -45,4 +45,4 @@ In conclusion, the online shopping system user data access outage that occurred 
 
 
 
-![Markdown Logo] (https://images.app.goo.gl/XDrNeMkxK9DraTok8)
+![The life of a SE engineer ->] (https://images.app.goo.gl/XDrNeMkxK9DraTok8)
